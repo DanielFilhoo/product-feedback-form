@@ -21,7 +21,7 @@ Siga as instruções abaixo para rodar o projeto localmente:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/DanielFilhoo/seu-repositorio.git
+   git clone https://github.com/DanielFilhoo/product-feedback-form.git
 
 2. **Instale as dependências:**
 cd seu-repositorio
